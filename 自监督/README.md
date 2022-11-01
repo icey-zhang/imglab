@@ -41,3 +41,30 @@
 
 贡献：LoGo提倡两种局部视图具有不同的代表性，鼓励它们的不相似性，从而防止退化解，同时接近全局视图，同一图像的局部视图看起来比来自不同图像的更相似，可以轻松应用于现有的SSL方法，在各种数据集上的广泛实验以及使用不同的自我监督学习框架验证了其优于现有方法的优势
 
+4.题目 UniVIP: A Unified Framework for Self-Supervised Visual Pre-training(CVPR2022)
+
+连接：https://arxiv.org/abs/2203.06965
+
+代码连接：
+
+上传者：田佳渊
+
+关键词：自监督预训练  
+
+数据集：coco train2017;coco+;imagenet
+
+贡献：为了有效克服非标志性图像中随机视图的语义不一致性，我们提出了一种统一的自监督表示学习框架，并可对任意图像进行预训练。出同时利用场景-场景的相似性、场景-实例的相关性和实例-实例的鉴别性来有效地提升模型的性能。在单中心对象和非标志性数据集上用UniVIP预训练的模型在多个下游任务，如图像分类、半监督学习、对象检测和分割等方面都优于以往的SOTA方法。
+
+5.题目 Self-Supervised Visual Representations Learning by Contrastive Mask Prediction(ICCV2021)
+
+连接：https://arxiv.org/abs/2108.07954
+
+代码连接：
+
+上传者：田佳渊
+
+关键词：自监督预训练  
+
+数据集：coco;cc;pascal voc;imagenet
+
+贡献：提出对比掩码预测作为自监督学习的借口任务，设计MASKCo自监督学习方法，通过实验证明该方法在非imagenet数据集上进行预训练并没有像其他sota那样产生性能下降。MaskCo为在自然景象数据集进行自我监督学习提供了基于id的方法之外的一个有前途的选择。
