@@ -1,5 +1,5 @@
 
-1.题目:Multimodal object detection via probabilistic ensembling
+**1.题目:Multimodal object detection via probabilistic ensembling**
 
 连接：https://arxiv.org/abs/2104.02904v3
 
@@ -15,7 +15,8 @@
 
 
 
-2.题目:**From Single- to Multi-modal Remote Sensing Imagery Interpretation: A Survey and Taxonomy**
+
+**2.题目:From Single- to Multi-modal Remote Sensing Imagery Interpretation: A Survey and Taxonomy**
 
 连接：https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3588-0
 
