@@ -66,7 +66,7 @@
 
 关键词：多模态，变化检测
 
-数据集：[OSCD multi-sensor dataset](https://mediatum.ub.tum.de/1619966）
+数据集：[OSCD multi-sensor dataset](https://mediatum.ub.tum.de/1619966)
 
 贡献：在缺少变化后光学模态的情况，用三个网络编码结构一个共同解码融合了多传感器信息进行变化检测
 
