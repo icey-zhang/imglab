@@ -33,7 +33,7 @@
 
 
 
-- **2.题目:Uncertainty-Aware Multi-View Representation Learning**
+- **3.题目:Uncertainty-Aware Multi-View Representation Learning**
 
 连接与代码：http://cic.tju.edu.cn/faculty/zhangchangqing/code.html
 
