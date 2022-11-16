@@ -49,6 +49,6 @@
 [COIL20MV](http://www.cs.columbia.edu/CAVE/software/softlib/)
 [MSRCV1](http://www.vision.caltech.edu/visipedia/CUB-200.html)
 [CUB](https://radimrehurek.com/gensim/models/doc2vec.html)
-[Caltech101](http://www.vision.caltech.edu/Image Datasets/Caltech101)
+[Caltech101](http://www.vision.caltech.edu/Image_Datasets/Caltech101)
 
 贡献：建模了不同模态的确定性成分和不确定部分（噪声），剔除噪声以获得更好的表征
