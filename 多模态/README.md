@@ -52,3 +52,21 @@
 [Caltech101](http://www.vision.caltech.edu/Image_Datasets/Caltech101)
 
 贡献：建模了不同模态的确定性成分和不确定部分（噪声），剔除噪声以获得更好的表征
+
+
+
+
+- **4.题目:Supervised Change Detection Using Prechange Optical-SAR and Postchange SAR Data**
+
+连接：https://ieeexplore.ieee.org/document/9901395
+
+代码连接：https://github.com/sudipansaha/optSarSarCdJstars2022
+
+上传者：岳崝
+
+关键词：多模态，变化检测
+
+数据集：OSCD multi-sensor dataset（https://mediatum.ub.tum.de/1619966）
+
+贡献：在缺少变化后光学模态的情况，用三个网络编码结构一个共同解码融合了多传感器信息进行变化检测
+
