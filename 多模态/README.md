@@ -81,8 +81,8 @@
 
 关键词：多模态，语义分割
 
-数据集：[NYU Depth V2], (https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html#raw_parts)
-        [CityScapes],(https://www.cityscapes-dataset.com/)
+数据集：[NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html#raw_parts)
+        [CityScapes](https://www.cityscapes-dataset.com/)
         [SUN-RGBD](https://rgbd.cs.princeton.edu/)
 
 贡献：通过分离聚合门控以及双向多步传播进行模态矫正，实现更精准的语义分割
