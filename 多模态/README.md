@@ -70,3 +70,20 @@
 
 贡献：在缺少变化后光学模态的情况，用三个网络编码结构一个共同解码融合了多传感器信息进行变化检测
 
+
+- **5.题目:Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation**
+
+连接：https://arxiv.org/abs/2007.09183
+
+代码连接：https://charlescxk.github.io/
+
+上传者：徐思敏
+
+关键词：多模态，语义分割
+
+数据集：[NYU Depth V2], (https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html#raw_parts)
+        [CityScapes],(https://www.cityscapes-dataset.com/)
+        [SUN-RGBD](https://rgbd.cs.princeton.edu/)
+
+贡献：通过分离聚合门控以及双向多步传播进行模态矫正，实现更精准的语义分割
+
