@@ -10,7 +10,7 @@
 
 贡献：第一次将联邦学习用于目标检测模型
 
-**2.题目：FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks**
+- **2.题目：FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks**
 
 链接与代码：https://github.com/FedML-AI/FedML/tree/master/python/app/fedcv
 
@@ -20,7 +20,7 @@
 
 贡献：提出FedCV框架——满足多种计算机视觉任务的联邦学习框架，适用于多种数据集、模型和联邦学习算法
 
-**3.题目：ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training**
+- **3.题目：ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training**
 
 链接与代码：https://github.com/a514514772/ProgFed
 
