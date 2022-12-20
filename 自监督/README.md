@@ -125,6 +125,19 @@
 
 贡献：1.首次尝试从自我监督学习的完整角度来论证裁剪区域和裁剪剩余区域的重要性。2. 我们提出了一个简单而有效的借口任务，即RegionCL。它与各种流行的SSL方法兼容，只做了少量修改，并提高了它们在许多下游可视化任务上的性能
 
+10.题目：Barlow Twins: Self-Supervised Learning via Redundancy Reduction
+链接：https://arxiv.org/pdf/2103.03230.pdf
+
+代码链接：https://github.com/facebookresearch/barlowtwins（不完全）
+
+上传者：田佳渊
+
+关键词：冗余减少，对称结构
+
+数据集：ImageNet，COCO，voc
+
+贡献：它将冗余减少(冗余减少是神经科学中首次提出的原则)应用于自我监督学习。
+
 
 
 
