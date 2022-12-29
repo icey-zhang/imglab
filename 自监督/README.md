@@ -139,6 +139,20 @@
 
 贡献：它将冗余减少(冗余减少是神经科学中首次提出的原则)应用于自我监督学习。
 
+- **11.题目：Synergistic Self-supervised and Quantization Learning**
+
+链接：https://arxiv.org/abs/2207.05432
+
+代码链接：https://github.com/megvii-research/SSQL-ECCV2022.
+
+上传者：曹茗翔
+
+关键词：量化，自监督学习，迁移学习
+
+数据集：cifar10,cifar100,ImageNet
+
+贡献：提出了一种称为协同自监督和量化学习 (SSQL) 的方法来预训练量化友好的自监督模型，以促进下游部署。
+
 
 
 
