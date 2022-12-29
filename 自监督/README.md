@@ -83,7 +83,7 @@
 
 贡献：通过强大的数据增强，以及基于整体预测水平的稳定性优先考虑可靠的无标签图像来进行选择性的再训练，构建了一个优秀且实用的半监督语义分割框架
 
-- **7.题目：Improving Contrastive Learning by Visualizing Feature Transformation
+- **7.题目：Improving Contrastive Learning by Visualizing Feature Transformation**
 
 链接：https://arxiv.org/abs/2108.02982
 
@@ -97,7 +97,7 @@
 
 贡献：首先设计了一个pos/neg score分布的可视化方案，使我们能够分析、解释和理解学习过程。提出特征级的数据操作，包括正样本的外推和负样本之间的内插。
 
-- **8.题目：Geography-Aware Self-Supervised Learning
+- **8.题目：Geography-Aware Self-Supervised Learning**
 
 链接：https://arxiv.org/abs/2011.09980
 
@@ -111,7 +111,7 @@
 
 贡献：利用遥感数据的时空结构，利用随时间的空间对齐图像在对比学习中构建时间正样本，并利用地理位置预测充当借口任务。
 
-- **9.题目：RegionCL: Can Simple Region Swapping Contribute to Contrastive Learning?
+- **9.题目：RegionCL: Can Simple Region Swapping Contribute to Contrastive Learning?**
 
 链接：https://arxiv.org/abs/2111.12309
 
@@ -125,7 +125,7 @@
 
 贡献：1.首次尝试从自我监督学习的完整角度来论证裁剪区域和裁剪剩余区域的重要性。2. 我们提出了一个简单而有效的借口任务，即RegionCL。它与各种流行的SSL方法兼容，只做了少量修改，并提高了它们在许多下游可视化任务上的性能
 
-10.题目：Barlow Twins: Self-Supervised Learning via Redundancy Reduction
+- **10.题目：Barlow Twins: Self-Supervised Learning via Redundancy Reduction**
 链接：https://arxiv.org/pdf/2103.03230.pdf
 
 代码链接：https://github.com/facebookresearch/barlowtwins（不完全）
