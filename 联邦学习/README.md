@@ -33,3 +33,17 @@
 数据集：CIFAT-10、CIFAR-100、EMNIST、BraTS
 
 贡献：第一个提出高效的渐进式联邦学习架构，在几乎不损失性能的情况下大幅节约计算成本和通信成本，能与经典联邦学习算法和压缩算法兼容。
+
+- **4.题目：Personalizing Federated Medical Image Segmentation via Local Calibration**
+
+链接与代码：https://github.com/jcwang123/FedLC
+
+上传者：张佳青
+
+关键词：联邦学习 医学图像 数据异质性
+
+数据集：PMR、RIF
+
+贡献：对个性化联邦学习的改进，目标是希望每个参与主机为其本地数据获得精确的模型，解决使用单一的全局模型来适应不同的数据分布是困难的问题。
+
+
