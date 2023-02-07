@@ -46,7 +46,7 @@
 
 贡献：对个性化联邦学习的改进，目标是希望每个参与主机为其本地数据获得精确的模型，解决使用单一的全局模型来适应不同的数据分布是困难的问题。
 
-- **4.题目：Federated learning based on dynamic regularization**
+- **5.题目：Federated learning based on dynamic regularization**
 
 链接与代码：https://github.com/alpemreacar/FedDyn
 
