@@ -46,4 +46,16 @@
 
 贡献：对个性化联邦学习的改进，目标是希望每个参与主机为其本地数据获得精确的模型，解决使用单一的全局模型来适应不同的数据分布是困难的问题。
 
+- **4.题目：Federated learning based on dynamic regularization**
+
+链接与代码：https://github.com/alpemreacar/FedDyn
+
+上传者：马舒然
+
+关键词：联邦学习 图像分类 数据异质性
+
+数据集：CIFAR-10、CIFAR-100、MNIST、E-MINIST
+
+贡献：提出一种新的联邦学习方法，更改本地训练的损失函数，解决本地设备级经验损失的最小值和全局经验损失最小值不一致的问题。
+
 
