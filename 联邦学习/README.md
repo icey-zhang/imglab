@@ -57,5 +57,15 @@
 数据集：CIFAR-10、CIFAR-100、MNIST、E-MINIST
 
 贡献：提出一种新的联邦学习方法，更改本地训练的损失函数，解决本地设备级经验损失的最小值和全局经验损失最小值不一致的问题。
+- **6.题目：FedSpace: An Efficient Federated Learning Framework at Satellites and Ground Stations**
+
+
+上传者：贾若凡
+
+关键词：联邦学习 星上系统
+
+数据集：fMoW
+
+贡献：根据卫星轨道和连通时变性调整聚合策略，相比于同步方式大大提高了效率。
 
 
