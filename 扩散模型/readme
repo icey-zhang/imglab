@@ -1,1 +1,12 @@
+1.题目：Denoising Diffusion Autoencoders are Unified Self-supervised Learners
+连接：
 
+代码连接：https://github.com/fhaghighi/DiRA
+
+上传者：田佳渊
+
+关键词：分类 edm  自监督ddae
+
+数据集：cifar10 ImageNet
+
+贡献：去噪扩散自编码器(DDAE)，是统一的自监督学习者:通过对无条件图像生成的预训练，DDAE已经在其中间层学习了强线性可分离的表示，无需辅助编码器，从而使扩散预训练成为自监督生成和判别学习的一般方法。
