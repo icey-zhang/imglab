@@ -153,6 +153,44 @@
 
 贡献：提出了一种称为协同自监督和量化学习 (SSQL) 的方法来预训练量化友好的自监督模型，以促进下游部署。
 
+- **12.题目：Correlational Image Modeling for Self-Supervised Visual Pre-Training**
 
+链接：https://arxiv.org/abs/2303.12670
 
+代码链接：[还未更新](https://github.com/weivision/Correlational-Image-Modeling)
 
+上传者：曹茗翔
+
+关键词：视觉跟踪，自监督学习，CIM
+
+数据集：ADE20K,ImageNet-1k
+
+贡献：CIM执行一个简单的借口任务：从输入图像（上下文）中随机裁剪图像区域（样本），并预测样本和上下文之间的相关性图。实验表明，CIM在自我监督和转移基准方面的表现与当前技术水平相当或更好。
+
+- **13.题目：Mixed Autoencoder for Self-supervised Visual Representation Learning**
+
+链接：http://export.arxiv.org/abs/2303.17152
+
+代码链接：还未更新
+
+上传者：曹茗翔
+
+关键词：MAE数据增强，自监督学习，MixedAE
+
+数据集：ADE20K,ImageNet-1k,COCO
+
+贡献：解决MAE数据扩充问题，提出了同源识别，这是一种辅助借口任务，不仅通过明确要求每个补丁识别同源补丁来缓解MI(互信息)的增加，而且还可以执行对象感知的自监督预训练，以获得更好的下游密集感知性能。
+
+- **14.题目：Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**
+
+链接：https://arxiv.org/abs/2208.03987
+
+代码链接：https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA
+
+上传者：曹茗翔
+
+关键词：面向遥感的基础模型，自监督学习，MAE，RVSA
+
+数据集：MillionAID,DOTA-V1.0,DIOR-R,AID,NWPU,UCM,Potsdam,iSAID,LoveDA
+
+贡献：采用了具有约1亿个参数的普通VIT，并首次尝试提出适合RS任务的大型视觉模型，并研究此类大型模型的性能。为了处理RS图像中的大尺寸和任意方向的对象，提出了一种新的旋转变尺寸窗口注意力来取代Transformer中的原始全注意力，这可以显著降低计算成本和内存占用，同时通过从生成的不同窗口中提取丰富的上下文来学习更好的对象表示。
