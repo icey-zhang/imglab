@@ -194,3 +194,17 @@
 数据集：MillionAID,DOTA-V1.0,DIOR-R,AID,NWPU,UCM,Potsdam,iSAID,LoveDA
 
 贡献：采用了具有约1亿个参数的普通VIT，并首次尝试提出适合RS任务的大型视觉模型，并研究此类大型模型的性能。为了处理RS图像中的大尺寸和任意方向的对象，提出了一种新的旋转变尺寸窗口注意力来取代Transformer中的原始全注意力，这可以显著降低计算成本和内存占用，同时通过从生成的不同窗口中提取丰富的上下文来学习更好的对象表示。
+
+- **15.题目：DINOv2: Learning Robust Visual Features without Supervision**
+
+链接：https://arxiv.org/abs/2304.07193
+
+代码链接：https://github.com/facebookresearch/dinov2，https://github.com/facebookresearch/xformers
+
+上传者：曹茗翔
+
+关键词：dinov2，深度估计，语义分割，实例检索
+
+数据集：LVD-142M,INet-1k，Im-A，ADE-20k，Oxford-M，Paris，Met，AmsterTime
+
+贡献：在数据方面，提出了一种以流水线方式来建立一个专用的、多样化的、经过整理的图像数据集，而不是像自监督文献中通常使用未经整理的数据。 在模型方面，用十亿参数训练一个VIT模型，并将其提取成一系列较小的模型，这些模型在图像和像素级别的大多数基准上都超过了现有的openclip的最佳性能。
