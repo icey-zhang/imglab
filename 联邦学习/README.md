@@ -68,4 +68,12 @@
 
 贡献：根据卫星轨道和连通时变性调整聚合策略，相比于同步方式大大提高了效率。
 
+- **7.题目：FedALA: Adaptive Local Aggregation for Personalized Federated Learning**
 
+上传者：贾若凡
+
+关键词：个性化联邦学习
+
+数据集：CIFAR10、CIFAR100、TinyImageNet
+
+贡献：在客户端进行自适应聚合得到个性化模型，提出的ALA模块可以适用于其他模型。
